@@ -1,4 +1,4 @@
-# kidigo - Comments Repository
+# Kidigo - Comments Repository
 Alternatif repository comments system.
 
 
